@@ -7,7 +7,7 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 
-import static ca.Atmatm6.extrelocate.ExtremeReference.*;
+import static ca.Atmatm6.Extremecore.ExtremeReference.*;
 
 @Mod(modid = modid,name = name,version = version,dependencies = deps)
 public class ExtremeRelocation {

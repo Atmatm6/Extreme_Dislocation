@@ -1,4 +1,4 @@
-package ca.Atmatm6.extrelocate.reblock;
+package ca.Atmatm6.extrelocate.erblock;
 
 import ca.Atmatm6.extrelocate.ExtremeRelocation;
 import net.minecraft.block.Block;
